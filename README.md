@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+""Saludos"" Mi nombre es Bladimir Reinosa, tengo 18 años y soy Estudiante de Ingenieria en Sistemas en la Universidad Tecnologica de El Salvador.
 <!--
 **Bladimir-Rei/Bladimir-Rei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
